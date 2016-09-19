@@ -1,0 +1,4 @@
+# Pasal 14
+(1) Perangkat Daerah yang melaksanakan urusan pemerintahan di bidang kesatuan bangsa dan politik yang terbentuk dengan susunan organisasi dan tata kerja sebelum Peraturan Daerah ini diundangkan, tetap melaksanakan tugasnya sampai dengan peraturan perundang-undangan mengenai pelaksanaan urusan pemerintahan umum diundangkan.
+(2) Dalam hal Perangkat Daerah yang melaksanakan urusan pemerintahan di bidang kesatuan bangsa dan politik sebagaimana dimaksud pada ayat (1) tergabung dengan urusan pemerintahan lain, Perangkat Daerah tersebut hanya melaksanakan urusan pemerintahan di bidang kesatuan bangsa dan politik.
+(3) Anggaran penyelenggaraan urusan pemerintahan di bidang kesatuan bangsa dan politik sebagaimana dimaksud pada ayat (1) dibebankan pada Anggaran Pendapatan dan Belanja Daerah sampai dengan peraturan perundang-undangan mengenai pelaksanaan urusan pemerintahan umum diundangkan;

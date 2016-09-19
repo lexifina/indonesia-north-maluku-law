@@ -1,0 +1,3 @@
+# Pasal 15
+(1) Penyesuaian pengisian Jabatan Direktur Rumah Sakit Umum Daerah sebagai jabatan fungsional, dilaksanakan paling lambat Bulan Juni 2018. Hal tersebut sesuai dengan ketentuan Pasal 121 Peraturan Pemerintah Nomor 18 Tahun 2016 yang antara lain, menyatakan bahwa Penyesuaian pengisian Jabatan Direktur Rumah Sakit dan pengisian kepala pusat kesehatan masyarakat sebagai jabatan fungsional, dilaksanakan paling lambat 2 (dua) tahun sejak Peraturan Pemerintah Nomor 18 Tahun 2016 mulai berlaku.
+(2) Pengisian Jabatan berdasarkan Peraturan Daerah ini dilakukan pada minggu keempat bulan Desember 2016;
