@@ -1,0 +1,19 @@
+{
+ "country": "ID-MU",
+ "acts": [
+  {
+   "slug": "perda-2016-005-pembentukan-dan-susunan-perangkat-daerah-provinsi-maluku-utara",
+   "short": "Perda North Maluku 5/2016",
+   "title": "Tentang Pembentukan Dan Susunan Perangkat Daerah Provinsi Maluku Utara",
+   "url": "https://jdih.malutprov.go.id/dokumen/53-peraturan-daerah-provinsi-nomor-5-2016",
+   "versions": [
+    {
+     "from": "2016-09-19",
+     "units": 25,
+     "source_url": "https://jdih.malutprov.go.id/dokumen/download?id=Perda_No_5_Tahun_2016.pdf&docId=53",
+     "sha256": "51e1ae9f6c92f116c782cda34eaac61308807b921140c346654cbc76b126b105"
+    }
+   ]
+  }
+ ]
+}

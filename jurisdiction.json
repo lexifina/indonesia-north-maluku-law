@@ -1,0 +1,8 @@
+{
+  "path": "id-mu",
+  "code": "ID-MU",
+  "name": "North Maluku (Indonesia)",
+  "level": "country",
+  "repo": "https://github.com/lexifina/indonesia-north-maluku-law",
+  "build": "built: Peraturan Daerah (Perda) of Provinsi Maluku Utara as enacted, Indonesian text, from JDIH Provinsi Maluku Utara (Biro Hukum Sekretariat Daerah Provinsi Maluku Utara)"
+}
