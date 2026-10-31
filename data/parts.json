@@ -1,0 +1,11 @@
+{
+ "parts": {
+  "20-perda-01.json": {
+   "acts": [
+    "perda-2016-005-pembentukan-dan-susunan-perangkat-daerah-provinsi-maluku-utara"
+   ],
+   "sha256": "9a4c609b654031d7c6913c1ded389ffc477fe960e6f3f386ee6aa75ef67963fc"
+  }
+ },
+ "schema": 1
+}
