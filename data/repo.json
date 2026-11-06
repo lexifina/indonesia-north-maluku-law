@@ -3,5 +3,15 @@
  "name": "North Maluku (Indonesia)",
  "tz": "Asia/Jayapura",
  "future_branch": "future",
- "publisher": "JDIH Provinsi Maluku Utara (Biro Hukum Sekretariat Daerah Provinsi Maluku Utara)"
+ "publisher": "JDIH Provinsi Maluku Utara (Biro Hukum Sekretariat Daerah Provinsi Maluku Utara)",
+ "units": [
+  {
+   "id": "pulau-morotai",
+   "folder": "regencies/pulau-morotai",
+   "name": "Kabupaten Pulau Morotai",
+   "code": "ID-MU-PULAU-MOROTAI",
+   "source": "jdih.pulaumorotaikab.go.id",
+   "official_code": "82.07"
+  }
+ ]
 }

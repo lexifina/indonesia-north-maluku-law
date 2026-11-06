@@ -5,6 +5,28 @@
     "perda-2016-005-pembentukan-dan-susunan-perangkat-daerah-provinsi-maluku-utara"
    ],
    "sha256": "9a4c609b654031d7c6913c1ded389ffc477fe960e6f3f386ee6aa75ef67963fc"
+  },
+  "30-q951-pergub38.json": {
+   "acts": [
+    "pergub-2023-038-susunan-organisasi-diskominfosandi"
+   ],
+   "sha256": "4b24d17e8a78e389f4178f35dc0fe7d3019015d4f4adcc14e095a277925c2f25"
+  },
+  "40-pulau-morotai.json": {
+   "acts": [
+    "regencies/pulau-morotai/perda-2010-001",
+    "regencies/pulau-morotai/perda-2011-010-pajak-restoran",
+    "regencies/pulau-morotai/perda-2011-016-pajak-hiburan",
+    "regencies/pulau-morotai/perda-2015-001-bangunan-gedung",
+    "regencies/pulau-morotai/perda-2018-002-pengelolaan-sampah",
+    "regencies/pulau-morotai/perda-2018-003-perubahan-atas-peraturan-daerah-nomor-8-tahun-2011-tentang-pajak",
+    "regencies/pulau-morotai/perda-2018-004-kedudukan-keuangan-kepala-daerah-dan-wakil-kepala-daerah",
+    "regencies/pulau-morotai/perda-2018-006-pengendalian-dan-pengawasan-minuman-beralkohol",
+    "regencies/pulau-morotai/perda-2018-010-penetapan-rumah-sakit-umum-daerah-kabupaten-pulau-morotai-sebagai",
+    "regencies/pulau-morotai/perda-2018-011-penyelenggaraan-penanggulangan-bencana",
+    "regencies/pulau-morotai/perda-2018-012-perlindungan-dan-pemanfaatan-varitas-kelapa-bido"
+   ],
+   "sha256": "db78e506839652cf0b4fcf727338c218b130f0cc8c978b9291946a04dc008e05"
   }
  },
  "schema": 1
